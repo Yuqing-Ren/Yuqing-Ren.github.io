@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please [click](https://yuqing-ren.github.io/files/CV_yqren_2020.pdf) here.
+Please [click](https://yqren.github.io/files/CV_yqren_2020.pdf) here.
