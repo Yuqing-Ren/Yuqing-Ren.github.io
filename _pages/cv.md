@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Please [click] here. (https://github.com/Yuqing-Ren/Yuqing-Ren.github.io/blob/master/files/CV_yqren_2020.pdf)
+Please [click] here. (https://yuqing-ren.github.io/files/CV_yqren_2020.pdf)
