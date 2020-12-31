@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CHN"
-title                    : "Mr. Ren Account"
+title                    : "Mr. Ren's Academic Home"
 title_separator          : "-"
 name                     : &name "Mr. Ren Account"
 description              : &description "Research Assistant at Southeast University"
