@@ -13,7 +13,7 @@ name                     : &name "Mr. Ren"
 description              : &description "Research Assistant at Southeast University"
 url                      : https://yq-ren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yq-ren/yqren.github.io"
+repository               : "yq-ren/yq-ren.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
