@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "CHN"
-title                    : "Mr. Ren's Academic Home"
+title                    : "Mr. Ren"
 title_separator          : "-"
-name                     : &name "Mr. Ren Account"
+name                     : &name "Mr. Ren"
 description              : &description "Research Assistant at Southeast University"
 url                      : https://Yuqing-Ren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
