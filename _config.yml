@@ -13,7 +13,7 @@ name                     : &name "Mr. Ren"
 description              : &description "Research Assistant at Southeast University"
 url                      : https://Yuqing-Ren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yuqing-Ren/Yuqing-Ren.github.io"
+repository               : "Yuqing-Ren/yqren.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
