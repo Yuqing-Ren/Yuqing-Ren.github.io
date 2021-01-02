@@ -11,6 +11,6 @@ I am pursuing a Master's degree in electronics and communication engineering at 
 
 Here are some useful links to get more detailed information about me: [CV](https://yq-ren.github.io/files/CV_yqren_2020.pdf) and [Publications](https://yq-ren.github.io/publications/). 
 
-If you are interested to me, please feel free to contract me, and my email is yqren@seu.edu.cn. 
+If you are interested to me, please feel free to contact me, and my email is yqren@seu.edu.cn. 
 
 
